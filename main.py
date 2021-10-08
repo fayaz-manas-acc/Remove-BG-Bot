@@ -44,7 +44,7 @@ ABOUT_TEXT = """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Channel', url='https://telegram.me/KOT_BOTS'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/KOT_REPORTS')
+        InlineKeyboardButton('Feedback', url='https://telegram.me/KOT_REPORS')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
