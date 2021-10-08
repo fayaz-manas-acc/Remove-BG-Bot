@@ -33,7 +33,7 @@ HELP_TEXT = """
 Made by @KOT_BOTS
 """
 ABOUT_TEXT = """
-- **Bot :** `Backround Remover Bot`
+- **Bot :** `KOT Backround Remover Bot`
 - **Creator :** [KOT DEVELOPER](https://telegram.me/KOT_FREE_DE_LA_HOYA_OFF)
 - **Channel :** [KOT BOTS](https://telegram.me/KOT_BOTS)
 - **Source :** [Click here](https://t.me/KING_OF_THE_CARTOONS_CHANNEL)
