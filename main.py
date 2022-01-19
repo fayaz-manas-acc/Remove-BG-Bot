@@ -21,7 +21,7 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a media background remover bot. Send me a photo I will send the photo without background.
+<b>𝗛𝗜 {}, 𝗜 𝗔𝗠 𝗔 𝗕𝗚 𝗥𝗘𝗠𝗢𝗩𝗘𝗥 𝗕𝗢𝗧 𝗜 𝗖𝗔𝗡 𝗘𝗔𝗦𝗜𝗟𝗬 𝗥𝗘𝗠𝗢𝗩𝗘 𝗕𝗔𝗖𝗞𝗚𝗥𝗢𝗨𝗡𝗗 𝗢𝗙 𝗧𝗛𝗘 𝗣𝗜𝗖𝗧𝗨𝗥𝗘𝗦</b>
 
 Made by @KOT_BOTS
 """
