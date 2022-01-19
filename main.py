@@ -23,28 +23,38 @@ FayasNoushad = Client(
 START_TEXT = """
 <b>𝗛𝗜 {}, 𝗜 𝗔𝗠 𝗔 𝗕𝗚 𝗥𝗘𝗠𝗢𝗩𝗘𝗥 𝗕𝗢𝗧 𝗜 𝗖𝗔𝗡 𝗘𝗔𝗦𝗜𝗟𝗬 𝗥𝗘𝗠𝗢𝗩𝗘 𝗕𝗔𝗖𝗞𝗚𝗥𝗢𝗨𝗡𝗗 𝗢𝗙 𝗧𝗛𝗘 𝗣𝗜𝗖𝗧𝗨𝗥𝗘𝗦</b>
 
-Made by @KOT_BOTS
+𝗕𝗢𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗔𝗡𝗗 𝗠𝗔𝗧𝗜𝗡𝗔𝗘𝗗 𝗕𝗬 @KOT_FREE_DE_LA_HOYA_OFF
 """
 HELP_TEXT = """
-- Just send me a photo
-- I will download it
-- I will send the photo without background
+- Jᴜsᴛ Sᴇɴᴅ Mᴇ ᴀ Pʜᴏᴛᴏ
+- I Wɪʟʟ Dᴏᴡɴʟᴏᴀᴅ Iᴛ
+- I Wɪʟʟ Sᴇɴᴅ Tʜᴇ Pʜᴏᴛᴏ Wɪᴛʜᴏᴜᴛ Bᴀᴄᴋɢʀᴏᴜɴᴅ
 
-Made by @KOT_BOTS
+𝗕𝗢𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗔𝗡𝗗 𝗠𝗔𝗧𝗜𝗡𝗔𝗘𝗗 𝗕𝗬 @KOT_FREE_DE_LA_HOYA_OFF
 """
 ABOUT_TEXT = """
-- **Bot :** `KOT Backround Remover Bot`
-- **Creator :** [KOT DEVELOPER](https://telegram.me/KOT_FREE_DE_LA_HOYA_OFF)
-- **Channel :** [KOT BOTS](https://telegram.me/KOT_BOTS)
-- **Source :** [Click here](https://t.me/KING_OF_THE_CARTOONS_CHANNEL)
-- **Language :** [Python3](https://python.org)
-- **Library :** [Pyrogram](https://pyrogram.org)
-- **Server :** [Heroku](https://heroku.com)
+╭──────[@KOT_BOTS]───────〄
+│
+├ Nᴀᴍᴇ : <a href='https://t.me/KOT_BG_REMOVER_BOT'>Kᴏᴛ Bɢ Rᴇᴍᴏᴠᴇʀ Bᴏᴛ</a>
+│
+├ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>Hᴇʀᴏᴋᴜ</a>
+│ 
+├ Lᴀɴɢᴜᴀɢᴇ : <a href='https://docs.pyrogram.org/'>Pʏᴛʜᴏɴ 3.9.6</a>
+│
+├ Vᴇʀꜱɪᴏɴ : <a href='https://t.me/KOT_BG_REMOVER_BOT</a>
+│
+├ Fʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ 1.2.9</a>
+│
+├ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>✯°• Kᴏᴛ Fʀᴇᴇ Dᴇ Lᴀ Hᴏʏᴀ Oғғ °•✯ | ✪ Bᴏᴛs CʀᴇᴀᴛᴏR ✪</a>
+│
+├ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href='https://t.me/KOT_LINKS_TEAM'>Kᴏᴛ Lɪɴᴋs Tᴇᴀᴍ</a>
+│
+├ Uᴘᴅᴀᴛᴇᴅ Oɴ : [ 19.1.2022 ] 03.00 PM
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://telegram.me/KOT_BOTS'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/KOT_REPORS')
+        InlineKeyboardButton('KOT BOTS', url='https://telegram.me/KOT_BOTS'),
+        InlineKeyboardButton('SUPPORT GROUP', url='https://telegram.me/KOT_REPORS')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
